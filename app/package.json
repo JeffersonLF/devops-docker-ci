@@ -1,0 +1,9 @@
+{
+  "name": "devops-docker-ci",
+  "version": "1.0.0",
+  "description": "Projeto DevOps com Docker e CI",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
